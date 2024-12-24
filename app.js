@@ -14,4 +14,5 @@ document.getElementById("generateBtn").addEventListener("click", function() {
          resultContainer.style.marginLeft= "65px";
          resultContainer.style.fontWeight="bold";
     }
+    num.value=" ";
 });
